@@ -15,7 +15,7 @@ These materials are intended to provide both basic R programming knowledge and i
 4. **Visualizing data**: Demonstrate the use of the ggplot2 package to create plots for easy data visualization.
 
 ### Lessons
-**[Click here](schedules/1.5-day.md) for links to lessons**
+**[Click here](https://github.com/ourstatsclub/R_intro/schedules/1.5-day.md) for links to lessons**
 
 ### Installation Requirements
 
