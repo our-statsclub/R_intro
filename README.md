@@ -26,7 +26,7 @@ Download the most recent versions of R and RStudio for the appropriate OS using 
 
 ### Dataset
 
-All the files used for the above lessons are linked within, but can also be [accessed here](https://github.com/hbctraining/Intro-to-R-with-DGE/tree/master/data).
+All the files used for the above lessons are linked within, but can also be [accessed here](https://github.com/ourstatsclub/R_intro/tree/master/data).
 
 ---
 *These materials have been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
