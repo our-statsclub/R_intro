@@ -17,6 +17,8 @@ These materials are intended to provide both basic R programming knowledge and i
 ### Lessons
 **[Click here](https://github.com/ourstatsclub/R_intro/blob/master/schedules/1.5-day.html) for links to lessons**
 
+Go to [R](https://cran.r-project.org/)
+
 ### Installation Requirements
 
 Download the most recent versions of R and RStudio for the appropriate OS using the links below:
